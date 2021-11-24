@@ -1,5 +1,5 @@
 # Venturing-on-to-Advanced-Visualizations-Comparing-values
-#-Number of Patient Visits by Department (Bar Chart) worksheet built
+#Number of Patient Visits by Department (Bar Chart) worksheet built
 #-Average Minutes to Service (Bullet Chart) worksheet built
 #-Year over Year Revenue (Bar-in-Bar) worksheet built
 #-ICU and Neonatal worksheet built
